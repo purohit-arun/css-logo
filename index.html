@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>React Logo</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        html {
+            font-size: 100%;
+        }
+
+        .center_div {
+            width: 100vw;
+            height: 100vh;
+            background-color: #000;
+            display: grid;
+            place-items: center;
+        }
+
+        .instaLogo {
+            content: "";
+            width: 15rem;
+            height: 15rem;
+            background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+            border-radius: 3rem;
+            position: relative;
+        }
+
+        .squareLayer {
+            position: absolute;
+            width: 11rem;
+            height: 11rem;
+            border: 1rem solid white;
+            border-radius: 3rem;
+            top: 30px;
+            left: 30px;
+            position: relative;
+        }
+
+        .squareLayer::before {
+            content: "";
+            width: 3.8rem;
+            height: 3.8rem;
+            border: 1rem solid white;
+            border-radius: 3rem;
+            position: absolute;
+            top: 25px;
+            left: 25px;
+
+        }
+
+        .squareLayer::after {
+            content: "";
+            width: .1rem;
+            height: .1rem;
+            border: .5rem solid white;
+            border-radius: 3rem;
+            background-color: azure;
+            position: absolute;
+            top: 15px;
+            left: 110px;
+
+        }
+    </style>
+</head>
+
+<body>
+    <div class="center_div">
+        <div class="instaLogo">
+            <div class="squareLayer">
+
+            </div>
+        </div>
+    </div>
+
+</body>
+
+</html>
