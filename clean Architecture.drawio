@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2022-02-01T11:58:20.899Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" version="16.5.2" etag="Ke8thkE5KACm2t4VNlVF" type="github"><diagram id="0sdwhZk0v2DaBLQ62d2o">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-02-01T12:05:23.459Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="j2jwBywex7rwI1zdmZob" version="16.5.2" type="github">
+  <diagram id="0sdwhZk0v2DaBLQ62d2o" name="Page-1">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OMrvlsqMulS0vNr3jfEC-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=#31E6E6;" vertex="1" parent="1">
+          <mxGeometry x="200" y="100" width="440" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="OMrvlsqMulS0vNr3jfEC-5" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="299" y="193.75" width="252.5" height="252.5" as="geometry" />
+        </mxCell>
+        <mxCell id="OMrvlsqMulS0vNr3jfEC-6" value="DOMAIN" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="370" y="260" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="OMrvlsqMulS0vNr3jfEC-7" value="USE CASE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="210" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OMrvlsqMulS0vNr3jfEC-10" value="DATA" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="380" y="380" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OMrvlsqMulS0vNr3jfEC-11" value="PRESENTATION" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="360" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OMrvlsqMulS0vNr3jfEC-12" value="FRAMEWORK" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="370" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
